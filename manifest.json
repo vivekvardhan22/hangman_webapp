@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Hangman Chrome Extension",
+  "version": "1.0",
+  "description": "This Chrome extension allows users to play the game of Hangman with a computer.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
